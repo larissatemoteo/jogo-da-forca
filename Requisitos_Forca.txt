@@ -27,5 +27,3 @@ RNF002 - O jogo deve ser responsivo, funcionando em dispositivos móveis e deskt
 RNF003 - O jogo deve ter uma interface intuitiva e acessível.
 
 RNF004 - O sistema deve suportar pelo menos 100 jogadores simultâneos no modo multiplayer.
-
-RNF005 - O jogo deve armazenar as pontuações e rankings de forma segura.
