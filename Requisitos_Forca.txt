@@ -1,0 +1,31 @@
+#Levantamento de Requisitos - Jogo de Forca Online
+
+##1. Requisitos Funcionais (RF)
+
+RF001 - O sistema deve permitir que o usuário inicie uma nova partida.
+
+RF002 - O sistema deve permitir partidas multiplayer, conectando jogadores online.
+
+RF003 - O sistema deve exibir a quantidade de tentativas restantes para adivinhar a palavra.
+
+RF004 - O sistema deve permitir que o usuário escolha um nível de dificuldade (fácil, médio, difícil).
+
+RF005 - O sistema deve exibir a palavra oculta com espaços correspondentes às letras.
+
+RF006 - O sistema deve indicar quando um jogador ganhar ou perder a partida.
+
+RF007 - O sistema deve permitir que o usuário jogue novamente após o fim de uma partida.
+
+RF008 - O sistema deve oferecer diferentes temas de palavras (tecnologia, esportes, filmes, etc.).
+
+##2. Requisitos Não Funcionais (RNF)
+
+RNF001 - O sistema deve carregar em menos de 2 segundos.
+
+RNF002 - O jogo deve ser responsivo, funcionando em dispositivos móveis e desktop.
+
+RNF003 - O jogo deve ter uma interface intuitiva e acessível.
+
+RNF004 - O sistema deve suportar pelo menos 100 jogadores simultâneos no modo multiplayer.
+
+RNF005 - O jogo deve armazenar as pontuações e rankings de forma segura.
